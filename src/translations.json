@@ -1,0 +1,52 @@
+{
+  "en_US": {
+    "Hello World!": "Hello World!",
+    "Translation Example": "Translation Example",
+    "Language": "Language"
+  },
+  "es_ES": {
+    "Hello World!": "¡Hola Mundo!",
+    "Translation Example": "Ejemplo de Traducción",
+    "Language": "Idioma"
+  },
+  "zh_CN": {
+    "Hello World!": "你好，世界！",
+    "Translation Example": "翻译示例",
+    "Language": "语言"
+  },
+  "ru_RU": {
+    "Hello World!": "Привет, мир!",
+    "Translation Example": "Пример перевода",
+    "Language": "Язык"
+  },
+  "ko_KR": {
+    "Hello World!": "안녕, 세상!",
+    "Translation Example": "번역 예제",
+    "Language": "언어"
+  },
+  "fr_FR": {
+    "Hello World!": "Bonjour le monde !",
+    "Translation Example": "Exemple de traduction",
+    "Language": "Langue"
+  },
+  "de_DE": {
+    "Hello World!": "Hallo Welt!",
+    "Translation Example": "Übersetzungsbeispiel",
+    "Language": "Sprache"
+  },
+  "it_IT": {
+    "Hello World!": "Ciao Mondo!",
+    "Translation Example": "Esempio di traduzione",
+    "Language": "Lingua"
+  },
+  "hi_IN": {
+    "Hello World!": "नमस्ते दुनिया!",
+    "Translation Example": "अनुवाद उदाहरण",
+    "Language": "भाषा"
+  },
+  "ar_AE": {
+    "Hello World!": "مرحبا بالعالم!",
+    "Translation Example": "مثال ترجمة",
+    "Language": "اللغة"
+  }
+}

@@ -11,3 +11,4 @@ You can add your own language to understand how this works :) Better be
 
 https://github.com/yjg30737/pyqt-multi-language-example/assets/55078043/b29b7d63-175d-4d2f-8f62-801a338daa70
 
+In this video the combobox popup is invisible because i took this with Windows recording feature not OBS studio or anything

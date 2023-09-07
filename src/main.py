@@ -61,7 +61,7 @@ class MainWindow(QMainWindow):
 
     def __langChanged(self, lang=None):
         translations = {}
-        with open('translations.json', 'r') as file:
+        with open('translations.json', 'r', encoding='utf-8') as file:
             translations = json.load(file)
 
         language = lang
